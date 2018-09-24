@@ -1,7 +1,7 @@
 # hrext05-git-introduction
 
 1. Who is your favorite super hero?
-
+Dr. Strange
 
 2. What is one interesting thing about you?
 
