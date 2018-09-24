@@ -13,7 +13,7 @@ My spirit Animal is a bear.
 I love pho!
 
 5. What is your favorite beverage?
-Coffee
+Coffee.
 
 6. What is your favorite national park or landmark?
 I guess lombard street is pretty cool.
