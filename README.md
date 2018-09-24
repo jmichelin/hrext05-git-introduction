@@ -22,12 +22,12 @@
 
 5. What is your favorite beverage?
 
-   Hot green tea
+   Hot green tea.
 
 
 6. What is your favorite national park or landmark?
 
-   Muir Woods
+   Muir Woods.
 
 
 7. What is your favorite movie?
