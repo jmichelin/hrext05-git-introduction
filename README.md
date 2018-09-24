@@ -1,22 +1,22 @@
 # hrext05-git-introduction
 
 1. Who is your favorite super hero?
-Batman
+/n Batman
 
 2. What is one interesting thing about you?
-I used to be a D1 collegiate level golfer.
+/n I used to be a D1 collegiate level golfer.
 
 3. What animal is your spirit animal?
-Bear
+/n Bear
 
 4. What is your favorite food?
-Sushi
+/n Sushi
 
 5. What is your favorite beverage?
-Milk
+/n Milk
 
 6. What is your favorite national park or landmark?
-Grank Canyon
+/n Grand Canyon
 
 7. What is your favorite movie?
-The Greatest Showman
+/n The Greatest Showman
