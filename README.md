@@ -1,6 +1,6 @@
 # hrext05-git-introduction
 
-1. Who is your favorite super hero? ironman
+1. Who is your favorite super hero? Superman
 
 
 2. What is one interesting thing about you? I am from South Africa and travel regulary 
@@ -19,3 +19,4 @@
 
 
 7. What is your favorite movie? Cold Mountain
+
