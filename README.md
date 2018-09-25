@@ -7,7 +7,7 @@ Superman
 I like to play the piano
 
 3. What animal is your spirit animal?
-a lion
+A Lion
 
 4. What is your favorite food?
 Spaghetti
