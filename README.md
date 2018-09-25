@@ -3,13 +3,13 @@
 1. Who is your favorite super hero? Superman
 
 
-2. What is one interesting thing about you? I am from South Africa and travel regulary 
+2. What is one interesting thing about you? I love to travel and explore new cities
 
 
-3. What animal is your spirit animal? Bear
+3. What animal is your spirit animal? Wolf
 
 
-4. What is your favorite food? Thai food
+4. What is your favorite food? Curry
 
 
 5. What is your favorite beverage? Water
