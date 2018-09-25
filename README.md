@@ -26,3 +26,10 @@ Grand Canyon
 
 7. What is your favorite movie?
 Raging Bull
+
+8. Where did you go to High School?
+Manlius Pebble Hill
+
+9. What year were you born?
+1993
+
